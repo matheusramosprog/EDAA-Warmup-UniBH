@@ -1,7 +1,5 @@
 # EDAA-Warmup-UniBH
 
-Exercícios realizados
-
 Questão 1. Erray bidimensional tabuada.
 
 Questão 2. Vetor números primos.
